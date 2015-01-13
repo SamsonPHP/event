@@ -1,5 +1,5 @@
 {
-	"name":"samsonos/php_event",
+	"name":"samsonphp/event",
     "description": "SamsonPHP events module",
     "keywords": [ "event", "samsonphp"],
     "authors":[
@@ -9,7 +9,6 @@
         }
     ],	
     "require-dev": {
-        "satooshi/php-coveralls": "dev-master",
         "phpunit/phpunit": "4.*"
     },
 	"license":"Open Software License (OSL) v 3.0",
