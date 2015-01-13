@@ -3,7 +3,7 @@
  * Created by Vitaly Iegorov <egorov@samsonos.com>
  * on 04.09.14 at 18:05
  */
- namespace samson\core;
+ namespace samsonphp\event;
 
 /**
  * Event managing system
