@@ -1,4 +1,12 @@
 #SamsonPHP events module 
+[![Latest Stable Version](https://poser.pugx.org/samsonphp/event/v/stable.svg)](https://packagist.org/packages/samsonphp/event) 
+[![Build Status](https://travis-ci.org/samsonphp/event.png)](https://travis-ci.org/samsonphp/event)
+[![Coverage Status](https://img.shields.io/coveralls/samsonphp/event.svg)](https://coveralls.io/r/samsonphp/event?branch=master)
+[![Code Climate](https://codeclimate.com/github/samsonphp/event/badges/gpa.svg)](https://codeclimate.com/github/samsonphp/event) 
+[![Total Downloads](https://poser.pugx.org/samsonphp/event/downloads.svg)](https://packagist.org/packages/samsonphp/event)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/samsonphp/event/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/samsonphp/event/?branch=master)
+
+
 We have build unique and very simple approach to make our modules and classes very loosely coupled by creating event-driven logic. 
 All core module code is build using this approach which gives unlimited abilities in extending its functionality and adding supeior features to it. 
 This approach is build with programming pattern Observer in mind, but has a little bit different approach.
@@ -6,13 +14,6 @@ This approach is build with programming pattern Observer in mind, but has a litt
 Events gives us opportunity to remove interclass connections, so it would be perfectly suited for writing unit tests. 
 From other hand, before moving to event based system, we had a lot of different handler stack, every of them fulfilled only only specific goal 
 and had to have field and function for working with it, with event approach we dont need all this stacks, functions and other stuff anymore.
-
-[![Latest Stable Version](https://poser.pugx.org/samsonos/php_event/v/stable.svg)](https://packagist.org/packages/samsonos/php_event) 
-[![Build Status](https://travis-ci.org/samsonos/php_event.png)](https://travis-ci.org/samsonos/php_event)
-[![Coverage Status](https://img.shields.io/coveralls/samsonos/php_event.svg)](https://coveralls.io/r/samsonos/php_event?branch=master)
-[![Code Climate](https://codeclimate.com/github/samsonos/php_event/badges/gpa.svg)](https://codeclimate.com/github/samsonos/php_event) 
-[![Total Downloads](https://poser.pugx.org/samsonos/php_event/downloads.svg)](https://packagist.org/packages/samsonos/php_event)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/samsonos/php_event/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/samsonos/php_event/?branch=master)
 
 ## Basics
 We have created one simple static class to provide all this awesome features in SamsonPHP, called ```\samson\core\Event```. This class has two main simple static functions:
