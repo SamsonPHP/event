@@ -1,8 +1,7 @@
 #SamsonPHP events module 
 [![Latest Stable Version](https://poser.pugx.org/samsonphp/event/v/stable.svg)](https://packagist.org/packages/samsonphp/event) 
-[![Build Status](https://travis-ci.org/samsonphp/event.png)](https://travis-ci.org/samsonphp/event)
+[![Build Status](https://travis-ci.org/SamsonPHP/event.svg?branch=1.0.6)](https://travis-ci.org/SamsonPHP/event)
 [![Coverage Status](https://img.shields.io/coveralls/samsonphp/event.svg)](https://coveralls.io/r/samsonphp/event?branch=master)
-[![Code Climate](https://codeclimate.com/github/samsonphp/event/badges/gpa.svg)](https://codeclimate.com/github/samsonphp/event) 
 [![Total Downloads](https://poser.pugx.org/samsonphp/event/downloads.svg)](https://packagist.org/packages/samsonphp/event)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/samsonphp/event/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/samsonphp/event/?branch=master)
 
