@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/SamsonPHP/event.svg?branch=1.0.6)](https://travis-ci.org/SamsonPHP/event)
 [![Code Coverage](https://scrutinizer-ci.com/g/SamsonPHP/event/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/SamsonPHP/event/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/samsonphp/event/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/samsonphp/event/?branch=master)
-[![Stories in Ready](https://badge.waffle.io/samsonphp/event.png?label=ready&title=Ready)](https://waffle.io/samsonphp/config)
+[![Stories in Ready](https://badge.waffle.io/samsonphp/event.png?label=ready&title=Ready)](https://waffle.io/samsonphp/event)
 [![Total Downloads](https://poser.pugx.org/samsonphp/event/downloads.svg)](https://packagist.org/packages/samsonphp/event)
 
 
